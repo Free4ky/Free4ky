@@ -15,14 +15,9 @@
 
 ---
 ### :man_technologist: About Me :
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- :man_student: I'm studying for bachelor degree in RTU MIREA.
+- 🌱 I’m currently learning machine learning and python.
+- 📫 How to reach me: bestkomisar@gmail.com
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -45,6 +40,11 @@
   <a href="https://stepik.org/cert/1569818">
     <img src="https://stepik.org/media/cache/images/courses/50352/cover_3Sws6tG/a1fa307b2cf2e445aae0d6c1fb5fa31e.png" width="50" height="50"/>
   </a>
-  
 </div>
-  
+
+---
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Free4ky&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Free4ky&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
