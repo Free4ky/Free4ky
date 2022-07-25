@@ -35,11 +35,11 @@
 ---
 
 ### :trophy: Achivments :
-<div>
-  <h5>1. Samsung Research Russia Open Education. Neural networks and computer vision:</h5>
+<div style= "display: flex;align-items:center">
   <a href="https://stepik.org/cert/1569818">
-    <img src="https://stepik.org/media/cache/images/courses/50352/cover_3Sws6tG/a1fa307b2cf2e445aae0d6c1fb5fa31e.png" width="50" height="50"/>
+    <img style="vertical-align:middle" src="https://stepik.org/media/cache/images/courses/50352/cover_3Sws6tG/a1fa307b2cf2e445aae0d6c1fb5fa31e.png" title="Samsung Research Russia Open Education. Neural networks and computer vision" width="50" height="50"/>
   </a>
+
 </div>
 
 ---
