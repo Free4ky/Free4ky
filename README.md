@@ -16,7 +16,7 @@
 ---
 ### :man_technologist: About Me :
 - :man_student: I'm studying for bachelor degree in RTU MIREA.
-- 🌱 I’m currently learning machine learning and python.
+- 🌱 I’m currently studying machine learning and python.
 - 📫 How to reach me: bestkomisar@gmail.com
 ---
 
