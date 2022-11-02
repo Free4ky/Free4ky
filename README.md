@@ -47,7 +47,6 @@
         <img align="center" height="400" src="https://user-images.githubusercontent.com/51875349/199543475-478f0460-0232-4c8c-892b-c1dfffba306f.jpg">
   </a>
    &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; Winner of the Southern Federal District hackaton
-   <a>sdfsdf</a>
 </p>
 
 <p align="left">
