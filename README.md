@@ -48,6 +48,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Free4ky&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-
-[diploma_ru.pdf](https://github.com/Free4ky/Free4ky/files/12580046/diploma_ru.pdf)
-
