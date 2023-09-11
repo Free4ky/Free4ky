@@ -35,27 +35,14 @@
 ---
 
 ### :trophy: Achivments :
-<p>
-  <a href="https://stepik.org/cert/1569818">
-        <img align="center" height="300" src="https://user-images.githubusercontent.com/51875349/199530144-eef72547-b12d-4136-91d2-dffcce9ab969.jpg" title="Samsung Research Russia. Neural networks and computer vision">
-  </a>
-  Samsung Research Russia. Neural networks and computer vision
-</p>
 
-<p align="left">
-  <a href="https://hacks-ai.ru/hackathons/757129">
-        <img align="center" height="400" src="https://user-images.githubusercontent.com/51875349/199543475-478f0460-0232-4c8c-892b-c1dfffba306f.jpg">
-  </a>
-   &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; Winner of the Southern Federal District hackaton
-</p>
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img width="1604" src="https://github.com/Free4ky/Free4ky/files/12579904/certificate.pdf" >| <img width="1604" src="https://github.com/Free4ky/Free4ky/assets/51875349/7ddd5d68-2dcd-420f-87ec-9f5fb97a0ee1">|<img width="1604" src="https://user-images.githubusercontent.com/51875349/199543475-478f0460-0232-4c8c-892b-c1dfffba306f.jpg">|
 
-<p align="left">
-  <a href="https://hacks-ai.ru/hackathons/757128">
-        <img align="center" height="400" src="https://user-images.githubusercontent.com/51875349/199546403-8be0dc92-8fee-4e21-81f5-993324fa9c2d.jpg">
-  </a>
-   &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; Fourth place at the Central Federal District hackaton
-</p>
-
+| | |
+|:-------------------------:|:-------------------------:|
+|<img width="600" src="https://user-images.githubusercontent.com/51875349/199530144-eef72547-b12d-4136-91d2-dffcce9ab969.jpg" title="Samsung Research Russia. Neural networks and computer vision">|<img width="600" src="https://github.com/Free4ky/Free4ky/files/12580046/diploma_ru.pdf" title="Samsung Research Russia. Neural networks and computer vision">
 
 ### :fire: My Stats :
 
@@ -64,3 +51,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Free4ky&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+
+[diploma_ru.pdf](https://github.com/Free4ky/Free4ky/files/12580046/diploma_ru.pdf)
+
