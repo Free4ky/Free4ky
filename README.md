@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/888R35MJTmDxQfRzfS/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/888R35MJTmDxQfRzfS/giphy.gif" width="300"/>
 </div>
 <div id="badges" align="center">
   <a href="https://vk.com/id255126277">
@@ -42,7 +42,7 @@
 
 | | |
 |:-------------------------:|:-------------------------:|
-|<img width="600" src="https://user-images.githubusercontent.com/51875349/199530144-eef72547-b12d-4136-91d2-dffcce9ab969.jpg" title="Samsung Research Russia. Neural networks and computer vision">|<img width="600" src="https://github.com/Free4ky/Free4ky/files/12580046/diploma_ru.pdf" title="Samsung Research Russia. Neural networks and computer vision">
+|<img width="300" src="https://user-images.githubusercontent.com/51875349/199530144-eef72547-b12d-4136-91d2-dffcce9ab969.jpg" title="Samsung Research Russia. Neural networks and computer vision">|<img width="300" src="https://github.com/Free4ky/Free4ky/files/12580046/diploma_ru.pdf" title="Samsung Research Russia. Neural networks and computer vision">
 
 ### :fire: My Stats :
 
