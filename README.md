@@ -40,11 +40,3 @@
 |:-------------------------:|:-------------------------:|:-------------------------:|
 |<img width="1604" src="https://github.com/Free4ky/Free4ky/files/12579904/certificate.pdf" >| <img width="1604" src="https://github.com/Free4ky/Free4ky/assets/51875349/7ddd5d68-2dcd-420f-87ec-9f5fb97a0ee1">|<img width="1604" src="https://user-images.githubusercontent.com/51875349/199543475-478f0460-0232-4c8c-892b-c1dfffba306f.jpg">|
 |<img width="300" src="https://user-images.githubusercontent.com/51875349/199530144-eef72547-b12d-4136-91d2-dffcce9ab969.jpg" title="Samsung Research Russia. Neural networks and computer vision">|<img width="300" src="https://github.com/Free4ky/Free4ky/files/12580046/diploma_ru.pdf" title="Samsung Research Russia. Neural networks and computer vision">
-
-### :fire: My Stats :
-
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Free4ky&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Free4ky&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
