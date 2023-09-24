@@ -36,8 +36,9 @@
 
 ### :trophy: Achivments :
 
-
 | | | |
-|:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="1604" src="https://github.com/Free4ky/Free4ky/assets/51875349/d5be5905-dc4a-4119-a840-4aaefd9b1179" >|<img width="1604" src="https://github.com/Free4ky/Free4ky/assets/51875349/cd815a88-1ec5-4b41-9386-c97f348b44ca" >| <img width="1604" src="https://github.com/Free4ky/Free4ky/assets/51875349/7ddd5d68-2dcd-420f-87ec-9f5fb97a0ee1">|<img width="1604" src="https://user-images.githubusercontent.com/51875349/199543475-478f0460-0232-4c8c-892b-c1dfffba306f.jpg">|
-|<img width="300" src="https://user-images.githubusercontent.com/51875349/199530144-eef72547-b12d-4136-91d2-dffcce9ab969.jpg" title="Samsung Research Russia. Neural networks and computer vision">|<img width="300" src="https://github.com/Free4ky/Free4ky/assets/51875349/795b2c39-3ad8-4951-a2d3-a2434dbb6a10" title="">
+| ------------- | ------------- |------------- |
+| <img width="1604" src="https://github.com/Free4ky/Free4ky/assets/51875349/d5be5905-dc4a-4119-a840-4aaefd9b1179" >  | <img width="1604" src="https://github.com/Free4ky/Free4ky/assets/51875349/cd815a88-1ec5-4b41-9386-c97f348b44ca">  |<img width="1604" src="https://github.com/Free4ky/Free4ky/assets/51875349/7ddd5d68-2dcd-420f-87ec-9f5fb97a0ee1">|
+| <img width="1604" src="https://user-images.githubusercontent.com/51875349/199543475-478f0460-0232-4c8c-892b-c1dfffba306f.jpg">| <img width="300" src="https://user-images.githubusercontent.com/51875349/199530144-eef72547-b12d-4136-91d2-dffcce9ab969.jpg" title="Samsung Research Russia. Neural networks and computer vision">|<img width="300" src="https://github.com/Free4ky/Free4ky/assets/51875349/795b2c39-3ad8-4951-a2d3-a2434dbb6a10" title="">|
+
+
